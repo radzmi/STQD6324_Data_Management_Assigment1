@@ -1,1 +1,1 @@
-# STQD6324_Data_Management_Assigment1
+# Data Management Project 1
